@@ -1,0 +1,15 @@
+/mnt/data/dev/learn/computer_enhance/perfaware/part1/csharp/bin/Debug/net6.0/csharp
+/mnt/data/dev/learn/computer_enhance/perfaware/part1/csharp/bin/Debug/net6.0/csharp.deps.json
+/mnt/data/dev/learn/computer_enhance/perfaware/part1/csharp/bin/Debug/net6.0/csharp.runtimeconfig.json
+/mnt/data/dev/learn/computer_enhance/perfaware/part1/csharp/bin/Debug/net6.0/csharp.dll
+/mnt/data/dev/learn/computer_enhance/perfaware/part1/csharp/bin/Debug/net6.0/ref/csharp.dll
+/mnt/data/dev/learn/computer_enhance/perfaware/part1/csharp/bin/Debug/net6.0/csharp.pdb
+/mnt/data/dev/learn/computer_enhance/perfaware/part1/csharp/obj/Debug/net6.0/csharp.csproj.AssemblyReference.cache
+/mnt/data/dev/learn/computer_enhance/perfaware/part1/csharp/obj/Debug/net6.0/csharp.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/data/dev/learn/computer_enhance/perfaware/part1/csharp/obj/Debug/net6.0/csharp.AssemblyInfoInputs.cache
+/mnt/data/dev/learn/computer_enhance/perfaware/part1/csharp/obj/Debug/net6.0/csharp.AssemblyInfo.cs
+/mnt/data/dev/learn/computer_enhance/perfaware/part1/csharp/obj/Debug/net6.0/csharp.csproj.CoreCompileInputs.cache
+/mnt/data/dev/learn/computer_enhance/perfaware/part1/csharp/obj/Debug/net6.0/csharp.dll
+/mnt/data/dev/learn/computer_enhance/perfaware/part1/csharp/obj/Debug/net6.0/ref/csharp.dll
+/mnt/data/dev/learn/computer_enhance/perfaware/part1/csharp/obj/Debug/net6.0/csharp.pdb
+/mnt/data/dev/learn/computer_enhance/perfaware/part1/csharp/obj/Debug/net6.0/csharp.genruntimeconfig.cache
