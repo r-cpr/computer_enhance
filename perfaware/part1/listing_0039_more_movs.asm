@@ -21,7 +21,7 @@ mov si, bx
 mov dh, al
 
 ; 8-bit immediate-to-register
-mov cl, 12
+mov cl, 12data |= buffer[4];
 mov ch, -12
 
 ; 16-bit immediate-to-register
